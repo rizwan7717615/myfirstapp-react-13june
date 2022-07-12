@@ -1,0 +1,20 @@
+div.container-fluid a {
+    color: white;
+}
+a.dropdown-item {
+    color: black !important;
+}
+nav {
+    // position: sticky;
+    // top: 0;
+    z-index: 5;
+}
+.carousel-indicators {
+    button {
+        height: 0.7rem !important;
+        width: 0.7rem !important;
+        border-radius: 50% !important;
+        background-color: red !important;
+        border: 1px solid white !important;
+    }
+}
